@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Lucas!
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Node.JS e JavaScript
-- 😄 Pronouns: ele/dele
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
   <a href="https://github.com/CarvalhoDeLucas">
